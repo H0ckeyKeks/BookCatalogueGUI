@@ -117,4 +117,43 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="lblCharacters.Text" xml:space="preserve">
+    <value>CHARACTERS:
+- Are the characters well-developed and multi-dimensional?
+- Do they come across as believable and realistic?
+- Do they grow/change throughout the story?
+- Are relationships between the characters authentic and interesting?</value>
+  </data>
+  <data name="lblPlot.Text" xml:space="preserve">
+    <value>PLOT:
+- Is it exciting and well structured?
+- Does the story maintain interest until the end?
+- Are the plot twists and conflicts believable and meaningful?
+- Is the plot resolved well or does it remain unclear?</value>
+  </data>
+  <data name="lblSetting.Text" xml:space="preserve">
+    <value>ATMOSPHERE AND SETTING:
+-Is the setting discribed in detail and vividly?
+- Does the atmosphere help to reinforce the mood of the story?
+- Does the setting feel authentic and believable, or does it seem artificial?</value>
+  </data>
+  <data name="lblWriting.Text" xml:space="preserve">
+    <value>WRITING STYLE:
+- Is it pleasant and easy to understand?
+- Does the author use creative and concise language?
+- Does the style contribute to the atmosphere and mood of the book?
+- Is there a good balance betwwen dialogue, description and inner monologues?</value>
+  </data>
+  <data name="lblEmotion.Text" xml:space="preserve">
+    <value>EMOTIONAL IMPACT:
+- Does the book have an emotional impact on the reader?
+- Do you feel connected to the characters or moved by their story?
+- Is the emotion conveyed authentically or does it feel forced?</value>
+  </data>
+  <data name="lblTension.Text" xml:space="preserve">
+    <value>TENSION AND PACING:
+- Does the book maintain consistent tension or are there long, dull passages?
+- How well is the pacing of the story regulated (not too fast, but also not too slow)?
+- Are there exciting high points and quiet moments in the right balance?</value>
+  </data>
 </root>
