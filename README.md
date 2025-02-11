@@ -3,8 +3,11 @@ The BookCatalogueGUI is a Windows Forms application of my bookCatalogue (which y
 
 ## Features
 **View Books**: Display a list of books with details such as title, author, number of pages, publisher, isbn, release year and a summary.
+
 **Add Books:** Add new books to the catalogue with the above mentioned details.
+
 **Rate Books:** Rate books based on different categories (plot, characters, writing, etc.) and add the calculated average rating to the database.
+
 **Delete Books:** Remove books from the catalogue.
 
 
@@ -69,7 +72,6 @@ setx DATABASE_PASSWORD "your_secure_password"
 
 ![Main Menu with data](https://github.com/user-attachments/assets/4bc0cb1e-c38b-4944-b8a9-bc16349b3ea8)
 
-
 ![Add a book](https://github.com/user-attachments/assets/8cfcf947-e509-476f-a583-669f3c5f72f2)
 
 ![Rate a book](https://github.com/user-attachments/assets/bc14c44c-a041-4b61-a74b-33349f923fc6)
@@ -77,4 +79,5 @@ setx DATABASE_PASSWORD "your_secure_password"
 
 ## Notes
 **Rating System:** The ratings are based on multiple categories such as plot, characters, writin, etc. The system calculates the average of these ratings to assign an overall rating to the book. This makes it easier to compare the ratings of different books.
+
 **Error Handling:** I implemented methods for error handling that notify the user when they input invalid data.
