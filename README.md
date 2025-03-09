@@ -76,6 +76,8 @@ setx DATABASE_PASSWORD "your_secure_password"
 
 ![Rate a book](https://github.com/user-attachments/assets/bc14c44c-a041-4b61-a74b-33349f923fc6)
 
+[![BookCatalogueGUI]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=faRJLwTrd4o)]
+
 
 ## Notes
 **Rating System:** The ratings are based on multiple categories such as plot, characters, writin, etc. The system calculates the average of these ratings to assign an overall rating to the book. This makes it easier to compare the ratings of different books.
