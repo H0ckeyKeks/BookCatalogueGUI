@@ -68,7 +68,7 @@ setx DATABASE_PASSWORD "your_secure_password"
 
 
 ## Impressions
-#### Video:
+### Video:
 [![BookCatalogueGUI](https://img.youtube.com/vi/faRJLwTrd4o/0.jpg)](https://www.youtube.com/watch?v=faRJLwTrd4o)
 
 ### Screenshots:
