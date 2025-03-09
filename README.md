@@ -68,6 +68,8 @@ setx DATABASE_PASSWORD "your_secure_password"
 
 
 ## Impressions
+[![BookCatalogueGUI]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=faRJLwTrd4o)
+
 ![Main Menu](https://github.com/user-attachments/assets/7f2b9300-3bc4-48bc-a630-edf491c4a69f)
 
 ![Main Menu with data](https://github.com/user-attachments/assets/4bc0cb1e-c38b-4944-b8a9-bc16349b3ea8)
@@ -75,8 +77,6 @@ setx DATABASE_PASSWORD "your_secure_password"
 ![Add a book](https://github.com/user-attachments/assets/8cfcf947-e509-476f-a583-669f3c5f72f2)
 
 ![Rate a book](https://github.com/user-attachments/assets/bc14c44c-a041-4b61-a74b-33349f923fc6)
-
-[![BookCatalogueGUI]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=faRJLwTrd4o)]
 
 
 ## Notes
