@@ -68,8 +68,7 @@ setx DATABASE_PASSWORD "your_secure_password"
 
 
 ## Impressions
-[![BookCatalogueGUI](https://www.youtube.com/watch?v=faRJLwTrd4o)
-[![BookCatalogueGUI](https://www.youtube.com/watch?v=faRJLwTrd4o)
+![BookCatalogueGUI](https://www.youtube.com/watch?v=faRJLwTrd4o)
 
 
 ![Main Menu](https://github.com/user-attachments/assets/7f2b9300-3bc4-48bc-a630-edf491c4a69f)
